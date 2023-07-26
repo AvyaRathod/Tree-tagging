@@ -1,4 +1,3 @@
-# Team-70
 ## Growing a Greener Future, One Commit at a Time
 
 ### Problem statement:
@@ -31,8 +30,10 @@ git clone https://github.com/cfgindia2023/Team-70  # clone
 
 <details open>
   <summary>Workflow</summary>
-
-![image](https://github.com/cfgindia2023/Team-70/assets/27121364/19fa4fce-2014-4a25-bb8a-4d5013d907b3">)
+ 
+![image](https://github.com/cfgindia2023/Team-70/assets/27121364/19fa4fce-2014-4a25-bb8a-4d5013d907b3)
 
 - [Demo video]()
 </details>
+
+This repo was made during the Code For Good 2023. Not all the code in this repo has been written by me.
