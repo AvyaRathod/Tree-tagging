@@ -17,7 +17,7 @@
 <summary>Install</summary>
 
 ```bash
-git clone https://github.com/cfgindia2023/Team-70  # clone
+git clone https://github.com/AvyaRathod/Tree-tagging  # clone
 ```
 
 ```bash
